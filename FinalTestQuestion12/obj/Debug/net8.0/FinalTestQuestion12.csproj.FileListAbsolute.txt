@@ -1,0 +1,14 @@
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\bin\Debug\net8.0\FinalTestQuestion12.exe
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\bin\Debug\net8.0\FinalTestQuestion12.deps.json
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\bin\Debug\net8.0\FinalTestQuestion12.runtimeconfig.json
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\bin\Debug\net8.0\FinalTestQuestion12.dll
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\bin\Debug\net8.0\FinalTestQuestion12.pdb
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.AssemblyInfoInputs.cache
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.AssemblyInfo.cs
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.csproj.CoreCompileInputs.cache
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.dll
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\refint\FinalTestQuestion12.dll
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.pdb
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\FinalTestQuestion12.genruntimeconfig.cache
+D:\Humber\NET 022 - Advanced C# Programming\FinalTestQuestion12\FinalTestQuestion12\FinalTestQuestion12\obj\Debug\net8.0\ref\FinalTestQuestion12.dll
